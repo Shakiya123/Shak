@@ -1,25 +1,45 @@
-# hpro
+# Shak
 
 Installation :
 
-😈 apt update
+pkg update
 
-😈 apt upgrade
+pkg upgrade
 
-😈 apt install git
+pkg install git
 
-😈 pkg install python
+pkg install python
 
-😈 pkg install python2
+pkg install python2
 
-😈 pip2 install requests
+pip2 install requests
 
-😈 pip2 install mechanize
+pip2 install mechanize
 
-😈rm -rf hpro
+rm -rf Shak
 
-😈 git clone https://github.com/asgharmalik37/hpro.git
+git clone https://github.com/Shakiya123/Shak.git
 
-😈 cd hpro
+cd Shak
 
-👾 python2 Asghar2.py
+python2 Shakiya.py
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
