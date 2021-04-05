@@ -18,7 +18,7 @@ pip2 install mechanize
 
 rm -rf Shak
 
-git clone https://github.com/Shakiya123/Shak.git
+git clone https://github.com/shakiya123/Shak.git
 
 cd Shak
 
